@@ -1,0 +1,15 @@
+---
+title: "Week 10 Tutorial"
+author: "Prachi Jaiswal"
+date: "`r Sys.Date()`"
+output: 
+  bookdown::html_document2
+---
+
+```{r setup}
+ knitr::opts_chunk$set( echo = FALSE, message = FALSE, warning = FALSE)
+library(ggplot2)
+library(dplyr)
+
+```
+
